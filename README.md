@@ -18,6 +18,7 @@
 
 <br >
 
+> 해당 서비스는 PWA(Progressive Web App) 기술을 적용하여 오프라인 사용과 푸시 알림 기능을 제공합니다.
 
  **1️⃣ 걱정은 보관함에 넣어두고, 다시 일상에 집중해보세요**
 - 걱정을 열람할 시간을 설정하고, 특정 시간에만 걱정과 마주해 보세요.
@@ -56,6 +57,9 @@
 
 ### [Back-end](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_8_BE)
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+![image](https://github.com/user-attachments/assets/f3cfa2fa-c049-4e7d-9a05-6a382a564266)
+
 
 <br >
 
