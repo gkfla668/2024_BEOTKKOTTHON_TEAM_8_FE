@@ -20,19 +20,25 @@
 
 
  **1️⃣ 걱정은 보관함에 넣어두고, 다시 일상에 집중해보세요**
+- 걱정을 열람할 시간을 설정하고, 특정 시간에만 걱정과 마주해 보세요.
 - 걱정 메모를 작성하고 보관할 수 있습니다.
-- 파랑새에게 걱정에 대한 조언을 받을 수 있습니다.
+<div style="text-align: center;">  
+  <img src="https://github.com/user-attachments/assets/b269faaf-7bf9-4d41-a87f-eaebae60154d" width="320">
+  <img src="https://github.com/user-attachments/assets/48fa7312-c70d-48ca-a5e8-f3ea0db67320" width="320">
+  <img src="https://github.com/user-attachments/assets/f5ca3507-6a89-46e6-83f2-4e6623a41c9f" width="320" >
+</div>
 
-
- **2️⃣ 나의 걱정을 분석한 걱정 레포트**
-- 현재까지 작성한 걱정 메모 기반의 워드 클라우드를 확인 할 수 있습니다.
-- 가장 많이 걱정한 키워드 및 날짜를 확인할 수 있습니다.
-- AI 파랑새에게 가장 많이 걱정한 키워드에 대한 조언을 받을 수 있습니다.
-
- **3️⃣ 과거의 내가, 미래의 나에게 보내는 편지**
+ **2️⃣ 과거의 내가, 미래의 나에게 보내는 편지**
 
 - 날짜를 지정하여 미래의 나에게 편지를 보낼 수 있습니다.
 - 해당일이 되면 파랑새로부터 편지를 전달받습니다
+
+<div style="text-align: center;">  
+  <img src="https://github.com/user-attachments/assets/b1433f5e-09f8-4558-974d-3f27ec5d725f" width="320">
+  <img src="https://github.com/user-attachments/assets/a88f22d3-6366-4c8b-a47e-b54831e2a6c8" width="320">
+  <img src="https://github.com/user-attachments/assets/e7d85fab-6f22-43eb-a7a1-6a5b6a12463b" width="320">
+</div>
+
 
 ---
 
